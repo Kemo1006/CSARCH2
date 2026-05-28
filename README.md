@@ -8,10 +8,10 @@ Name
 4. Salvador, Miguel 
 5. Tanchiao, Manuel
 
-## 🧭 Group’s Topic Theme
-[Write 2-3 paragraphs explaining your chosen "problem solving story" – e.g., Intel Pentium FDIV bug, Spectre/Meltdown, IBM System/360, etc. Describe what happened, the architectural problem, and how it was solved.]
+## Group’s Topic Theme
+[Write 2-3 paragraphs explaining your chosen "problem-solving story" – e.g., Intel Pentium FDIV bug, Spectre/Meltdown, IBM System/360, etc. Describe what happened, the architectural problem, and how it was solved.]
 
-## 🛠️ Group’s Tech Stack Plan
+## Group’s Tech Stack Plan
 - **Framework:** Astro 6
 - **UI Library:** React (for interactive components)
 - **Content:** MDX files
