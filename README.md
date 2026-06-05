@@ -1,6 +1,6 @@
 # Virtual Exhibit Proposal: # Multi-Core Processors: Solving the Power Wall Problem
 
-## Group’s Member Roster
+## Group 8 Members
 Name 
 1. Colcol, Massimo
 2. Dicreto, Eirnan  
@@ -24,7 +24,7 @@ The solution came from changing the fundamental design of processors. Instead of
 - **Interactive Element Implementation:** [fill this up depending on our proposed interactive element].
 - **Version Control:** GitHub
 
-## Proposed Interactive Element
+## Proposed Interactive Element [Explanation only]
 **Name:** [Give your interactive element a name]
 
 **What it does:**  
@@ -39,7 +39,7 @@ The solution came from changing the fundamental design of processors. Instead of
 **How it teaches the topic:**  
 [Explain the learning outcome]
 
-## Mobile-Responsive Layout
+## Mobile-Responsive Layout [Picture w/ short explanation 3-5 sentences]
 [Describe how your exhibit adapts to mobile screens. Example: "On desktop, the interactive element sits beside the text. On mobile, it stacks vertically below. All buttons are touch-friendly (min 44px)."]
 
-## Tentative Style Guide Snapshot (Proposed Exhibit Design Layout)
+## Tentative Style Guide Snapshot [Picture only]
