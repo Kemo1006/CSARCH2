@@ -1,4 +1,4 @@
-# Virtual Exhibit Proposal: [Your Group Title Here]
+# Virtual Exhibit Proposal: # Multi-Core Processors: Solving the Power Wall Problem
 
 ## Group’s Member Roster
 Name 
