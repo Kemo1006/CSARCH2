@@ -1,4 +1,4 @@
-# Virtual Exhibit Proposal: # Multi-Core Processors: Solving the Power Wall Problem
+# Virtual Exhibit Proposal: Multi-Core Processors: Solving the Power Wall Problem
 
 ## Group 8 Members
 Name 
