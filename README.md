@@ -15,7 +15,9 @@ throttle down or fail. This was a serious architectural problem: manufacturers c
 
 The solution came from changing the fundamental design of processors. Instead of pushing one core to impossible speeds, engineers at Intel, AMD, and IBM introduced **multi-core processors**, placing two or more independent cores on a single chip. These cores could work in parallel, handling multiple tasks at once. While each individual core ran at a moderate speed, the combined performance continued to grow. This solved the power wall because parallel processing produced far less heat than cranking up the frequency of a single core.
 
-## Proposed Interactive Element
+## Group’s tech stack plan
+
+### Proposed Interactive Element
 **Name:** The Thermal Architecture Simulator
 
 **What it does:**  
@@ -30,8 +32,8 @@ The designer will be built as a react functional component. A custom algorithmic
 **How it teaches the topic:**  
 Rather than simply reading about the Power Wall, users experience it mathematically and visually. If a user tries to achieve a high score by simply maxing out the clock speed slider on a single core, the telemetry will instantly show a thermal failure. To achieve a good curation rating and high performance scores, the user is forced to discover the historical solution themselves, lowering the clock speed and increasing the core count to maintain efficiency.
 
-## Mobile-Responsive Layout
+### Mobile-Responsive Layout
 ![alt text](public/mobile.png)
 
-## Tentative Style Guide Snapshot
+### Tentative Style Guide Snapshot
 ![alt text](public/website.png)
