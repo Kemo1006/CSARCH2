@@ -25,21 +25,22 @@ The solution came from changing the fundamental design of processors. Instead of
 - **Version Control:** GitHub
 
 ## Proposed Interactive Element [Explanation only]
-**Name:** [Give your interactive element a name]
+**Name:** The Thermal Architecture Simulator
 
 **What it does:**  
-[Detailed description – 3-5 sentences explaining functionality]
+A highly detailed interactive dashboard that allows visitors to step into the role of a computer architect. The interface challenges users to design a processor that maximizes performance without exceeding thermal and power limits (The Power Wall). It features a control panel for hardware configuration, a live CPU view and metrics, and a comprehensive performance and curation results section that evaluates the processor that they built.
 
 **How the user interacts with it:**  
-[Click? Drag? Type? Sliders? Buttons?]
+Users interact with a suite of configuration sliders in the control panel to set the power budget, clock speed, and core count. After configuring their chip, they click the test design button. They then analyze the resulting data: monitoring the temperature gauges, checking if their design passed the design analysis checklist, reviewing benchmark scores for specific workloads  and receiving a final letter grade for their creation.
 
 **Technical implementation:**  
-[What React components, state, hooks, or libraries will you use?]
+The designer will be built as a react functional component. A custom algorithmic function will calculate the derived states: Temperature, Power Usage, and the final Curation Rating based on the combination of clock speed and active cores. The component will feature dynamic rendering to physically generate the CPU view grid and conditionally render warning banners if the user's design overheats.
 
 **How it teaches the topic:**  
-[Explain the learning outcome]
+Rather than simply reading about the Power Wall, users experience it mathematically and visually. If a user tries to achieve a high score by simply maxing out the clock speed slider on a single core, the telemetry will instantly show a thermal failure. To achieve a good curation rating and high performance scores, the user is forced to discover the historical solution themselves, lowering the clock speed and increasing the core count to maintain efficiency.
 
 ## Mobile-Responsive Layout [Picture w/ short explanation 3-5 sentences]
-[Describe how your exhibit adapts to mobile screens. Example: "On desktop, the interactive element sits beside the text. On mobile, it stacks vertically below. All buttons are touch-friendly (min 44px)."]
+![alt text](public/image-1.png)
 
 ## Tentative Style Guide Snapshot [Picture only]
+![alt text](public/image.png)
