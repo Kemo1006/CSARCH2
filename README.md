@@ -24,7 +24,7 @@ The solution came from changing the fundamental design of processors. Instead of
 - **Interactive Element Implementation:** [fill this up depending on our proposed interactive element].
 - **Version Control:** GitHub
 
-## Proposed Interactive Element [Explanation only]
+## Proposed Interactive Element
 **Name:** The Thermal Architecture Simulator
 
 **What it does:**  
@@ -39,8 +39,8 @@ The designer will be built as a react functional component. A custom algorithmic
 **How it teaches the topic:**  
 Rather than simply reading about the Power Wall, users experience it mathematically and visually. If a user tries to achieve a high score by simply maxing out the clock speed slider on a single core, the telemetry will instantly show a thermal failure. To achieve a good curation rating and high performance scores, the user is forced to discover the historical solution themselves, lowering the clock speed and increasing the core count to maintain efficiency.
 
-## Mobile-Responsive Layout [Picture w/ short explanation 3-5 sentences]
-![alt text](public/image-1.png)
+## Mobile-Responsive Layout
+![alt text](public/mobile.png)
 
-## Tentative Style Guide Snapshot [Picture only]
-![alt text](public/image.png)
+## Tentative Style Guide Snapshot
+![alt text](public/website.png)
