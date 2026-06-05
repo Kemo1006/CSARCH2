@@ -39,9 +39,6 @@ The solution came from changing the fundamental design of processors. Instead of
 **How it teaches the topic:**  
 [Explain the learning outcome]
 
-**Why it fits the central museum website:**  
-[Explain compatibility – styling, responsiveness, no external API dependencies, etc.]
-
 ## Mobile-Responsive Layout
 [Describe how your exhibit adapts to mobile screens. Example: "On desktop, the interactive element sits beside the text. On mobile, it stacks vertically below. All buttons are touch-friendly (min 44px)."]
 
