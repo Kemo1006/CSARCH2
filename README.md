@@ -45,7 +45,7 @@ This is a classic **"problem solving story" for Section S03** because AMD faced 
 
 ## Group's Tech Stack Plan
 
-## Proposed Interactive Element
+### Proposed Interactive Element
 
 **Name:** Monolithic vs. Chiplet Cost Simulator
 
@@ -68,13 +68,13 @@ Users discover that making a large monolithic die results in high cost and low y
 
 ---
 
-## Mobile-Responsive Layout
+### Mobile-Responsive Layout
 
 ![Mobile layout sketch](public/mobile.png)
 
 ---
 
-## Tentative Style Guide Snapshot
+### Tentative Style Guide Snapshot
 
 ![Desktop layout sketch](public/Desk%201.png)
 ![Desktop layout sketch](public/Desk%202.png)
